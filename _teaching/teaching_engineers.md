@@ -1,7 +1,7 @@
 ---
 title: "Teaching Mathematics for Engineers"
 collection: teaching
-type: "Mathematics for Engineers"
+type: "Undergraduate Course"
 permalink: /teaching/teaching_engineers
 venue: "RWTH Aachen, Lehrstuhl 2 für Mathematik"
 date: 2018-04-01
