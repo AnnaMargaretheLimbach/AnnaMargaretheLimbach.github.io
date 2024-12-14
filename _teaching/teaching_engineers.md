@@ -1,10 +1,10 @@
 ---
 title: "Mathematics for Engineers"
 collection: teaching
-type: "Maths for Engineers"
+#type: "Maths for Engineers"
 permalink: /teaching/teaching_engineers
 venue: "RWTH Aachen, Lehrstuhl 2 für Mathematik"
-date: 2018-04-01
+#date: 2018-04-01
 location: "Aachen, Germany"
 ---
 
