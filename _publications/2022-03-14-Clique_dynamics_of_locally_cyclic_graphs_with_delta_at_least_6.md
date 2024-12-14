@@ -10,7 +10,7 @@ which induce simply connected simplicial surfaces. These graphs are $$k$$-conver
 date: 2022-03-14
 venue: 'Discrete Mathematics'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.disc.2022.112873'
 citation: 'Baumeister, M., Limbach, A.M.Clique dynamics of locally cyclic graphs with δ≥ 6. <i>Discrete Mathematics</i> 345.7 (2022): 112873. https://doi.org/10.1016/j.disc.2022.112873'
 ---
 
