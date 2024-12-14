@@ -1,5 +1,5 @@
 ---
-title: "Clique dynamics of locally cyclic graphs with $$\delta\geq 6$$"
+title: "Clique dynamics of locally cyclic graphs with δ ≥ 6"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-14-Clique_dynamics_of_locally_cyclic_graphs_with_delta_at_least_6
