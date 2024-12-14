@@ -8,5 +8,5 @@ date: 2018-04-01
 location: "Aachen, Germany"
 ---
 
-In the years 2018 to 2021, I was a teaching assistant for the courses Mathematics I, II, and III for Mechanical Engineers. During lockdown, I cut lecture and exercise videos and embedded small tests for gamification and immedeate feedback.
+In the years 2018 to 2021, I was a teaching assistant for the courses Mathematics I, II, and III for Mechanical Engineers. During lockdown, I cut lecture and exercise videos and embedded small tests for gamification and immedeate feedback. For details, please have a look at my cv.
 
