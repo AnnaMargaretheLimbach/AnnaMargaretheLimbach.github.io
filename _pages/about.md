@@ -13,4 +13,15 @@ I received my doctoral degree from [RWTH Aachen University](https://www.rwth-aac
 
 Research Interests
 ======
-text
+* Clique Graphs
+* Graph Limits
+* Relaxed Graph Isomorphism (Fractional Isomorphism, Cospectrality, etc.)
+* Graph Labeling and Colouring
+
+My Coauthors
+======
+* [Markus Baumeister](https://markusbaumeister.github.io/)
+* [Jan Hladký](https://www.cs.cas.cz/~hladky/)
+* [Eng Keat Hng](https://sites.google.com/view/hngengkeat)
+* [Robert Scheidweiler](https://ei.hs-duesseldorf.de/scheidweiler)
+* [Martin Winter](https://martinwintermath.github.io/)
