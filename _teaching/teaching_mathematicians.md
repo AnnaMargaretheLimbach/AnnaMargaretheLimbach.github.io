@@ -8,5 +8,5 @@ date: 2019-04-01
 location: "Aachen, Germany"
 ---
 
-In the years 2019 to 2022, I was a teaching assistant for the courses in Optimization under Uncertainties (Online Optimization and Stochastic Optimization), Discrete Mathematics I and II as well as Integer Liniear Optimization.
+In the years 2019 to 2022, I was a teaching assistant for the courses in Optimization under Uncertainties (Online Optimization and Stochastic Optimization), Discrete Mathematics I and II as well as Integer Liniear Optimization. For details, please have a look at my cv.
 
