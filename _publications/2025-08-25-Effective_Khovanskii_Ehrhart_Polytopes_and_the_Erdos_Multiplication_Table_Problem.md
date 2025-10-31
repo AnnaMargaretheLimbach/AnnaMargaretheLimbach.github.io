@@ -3,8 +3,7 @@ title: "Effective Khovanskii, Ehrhart Polytopes, and the Erdös Multiplication T
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-25-Effective_Khovanskii_Ehrhart_Polytopes_and_the_Erdos_Multiplication_Table_Problem
-excerpt: 'Let P(k,n) be the set of products of k factors from the set $$\{1,\ldots , n\}$$.'
-# In 1955, Erdös posed the problem of determining the order of magnitude of |P (2, n)| and proved that $$|P (2, n)| = o(n^2 )$$ for $$n \to\infty$$.' 
+excerpt: 'Let P(k,n) be the set of products of k factors from the set $$\{1,\ldots , n\}$$. In 1955, Erdös posed the problem of determining the order of magnitude of |P (2, n)| and proved that $$|P (2, n)| = o(n^2 )$$ for $$n \to\infty$$.' 
 #  In 2015, Darda and Hujdurović asked whether, for each fixed $$n$$, $$|P (k, n)|$$ is a polynomial in $$k$$ of degree $$\pi(n)$$ - the number of primes not larger than $$n$$. Recently, Granville, Smith and Walker published an effective version of Khovanskii's Theorem. We apply this new result to show, that for each integer $$n$$, there is a polynomial $$q_n$$ of degree $$\pi(n)$$ such that $$|P (k, n)|=q_n(k)$$ for each $$k\geq n^2\cdot\left(\prod_{m=1}^{\pi(n)} \log_{p_m}(n)\right)-n+1.$$ Moreover, we give an upper estimate of the leading coefficient of $$q_n$$.'
 date: 2025-09-25
 venue: 'Eurocomb25'
