@@ -1,5 +1,5 @@
 ---
-title: "Graphon branching processes and frational isomorphism"
+title: "Graphon branching processes and fractional isomorphism"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-10-graphon_branching_processes_and_fractional_isomorphism
