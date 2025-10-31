@@ -2,7 +2,7 @@
 title: "Effective Khovanskii, Ehrhart Polytopes, and
 the Erdös Multiplication Table Problem"
 collection: publications
-category: extended abstacts
+category: manuscripts
 permalink: /publication/2025-08-25-Effective_Khovanskii_Ehrhart_Polytopes_and_the_Erdos_Multiplication_Table_Problem
 excerpt: 'Let $$P(k,n)$$ be the set of products of $k$ factors from the set $$\{1,\ldots , n\}.$$ In 1955, Erd\H{o}s %\cite{erdHos1955some}
 posed the problem of determining the order of magnitude of $$|P (2, n)|$$ and
