@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoc at the [Computer Science Institute of Charles University](https://www.mff.cuni.cz/iuuk) in Prague.
 
-Before, I a postdoc in the project [Graph Limits and Beyond](https://www.cs.cas.cz/~hladky/ProjectGraphLimits2.html) funded by the Czech Science Foundation. I worked at the [Institute of Computer Science of the Czech Academy of Sciences](https://www.cs.cas.cz/) (Ústav informatiky, Akademie věd České Republiky).
+Before, I was a postdoc in the project [Graph Limits and Beyond](https://www.cs.cas.cz/~hladky/ProjectGraphLimits2.html) funded by the Czech Science Foundation. I worked at the [Institute of Computer Science of the Czech Academy of Sciences](https://www.cs.cas.cz/) (Ústav informatiky, Akademie věd České Republiky).
 
 I received my doctoral degree from [RWTH Aachen University](https://www.rwth-aachen.de/) under the supervision of [Prof. Dr. Eberhard Triesch](https://math2.rwth-aachen.de/de/mitarbeiter/triesch).
 
@@ -26,4 +26,5 @@ My Coauthors
 * [Jan Hladký](https://www.cs.cas.cz/~hladky/)
 * [Eng Keat Hng](https://sites.google.com/view/hngengkeat)
 * [Robert Scheidweiler](https://ei.hs-duesseldorf.de/scheidweiler)
+* [Eberhard Triesch](https://math2.rwth-aachen.de/de/mitarbeiter/triesch)
 * [Martin Winter](https://martinwintermath.github.io/)
