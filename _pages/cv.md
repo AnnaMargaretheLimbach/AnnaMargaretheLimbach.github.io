@@ -51,4 +51,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-For a long version of my cv, see [here](http://annamargarethelimbach.github.io/files/cv_limbach.pdf) (last updated December 2024).
+For a long version of my cv, see [here](http://annamargarethelimbach.github.io/files/cv_limbach.pdf) (last updated August 2026).
