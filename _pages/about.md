@@ -19,12 +19,16 @@ Research Interests
 * Graph Limits
 * Relaxed Graph Isomorphism (Fractional Isomorphism, Cospectrality, etc.)
 * Graph Labeling and Colouring
+* Graph Drawing
 
 My Coauthors
 ======
+* [Todor Antić](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=17259)
 * [Markus Baumeister](https://markusbaumeister.github.io/)
+* [Niloufar Fuladi](https://niloufarfuladi.github.io/)
 * [Jan Hladký](https://www.cs.cas.cz/~hladky/)
 * [Eng Keat Hng](https://sites.google.com/view/hngengkeat)
 * [Robert Scheidweiler](https://ei.hs-duesseldorf.de/scheidweiler)
 * [Eberhard Triesch](https://math2.rwth-aachen.de/de/mitarbeiter/triesch)
+* [Pavel Valtr](https://kam.mff.cuni.cz/~valtr/)
 * [Martin Winter](https://martinwintermath.github.io/)
