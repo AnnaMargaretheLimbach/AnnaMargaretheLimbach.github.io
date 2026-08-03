@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2025- now: Postdoc
-  * Charles University, Computer Science Institure
+  * Charles University, Computer Science Institute
   * Work group of Zdeněk Dvořák and Robert Šámal
 
 
