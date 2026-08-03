@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* 2023- now: Postdoc
+* 2025- now: Postdoc
+  * Charles University, Computer Science Institure
+  * Work group of Zdeněk Dvořák and Robert Šámal
+
+
+* 2023- 2025: Postdoc
   * Czech Academy of Sciences, Computer Science Institute
   * Project: Graph Limits and Beyond
 
