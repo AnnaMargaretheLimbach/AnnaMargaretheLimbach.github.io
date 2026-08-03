@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at the [Computer Science Institute of Charles University](https://www.mff.cuni.cz/iuuk) in Prague.
+I am a postdoc at the [Computer Science Institute of Charles University](https://www.mff.cuni.cz/cs/iuuk) in Prague.
 
 Before, I was a postdoc in the project [Graph Limits and Beyond](https://www.cs.cas.cz/~hladky/ProjectGraphLimits2.html) funded by the Czech Science Foundation. I worked at the [Institute of Computer Science of the Czech Academy of Sciences](https://www.cs.cas.cz/) (Ústav informatiky, Akademie věd České Republiky).
 
